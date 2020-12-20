@@ -2,5 +2,5 @@
 
 Project done with
 
-João Cruz 
+João Cruz and
 Miguel Gonzaga
